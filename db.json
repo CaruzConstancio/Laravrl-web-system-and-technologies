@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "Constancio Xeus lll L. Caruz",
+      "age": 22,
+      "quotes": "No one has ever become poor by giving."
+    },
+    {
+      "name": "Juan Dela Cruz",
+      "age": 99,
+      "quotes": "Alone we can do so little, together we can do so much." - Helen Keller."
+    }
+  ],
+  "studentinfo": [
+    {
+      "classsection": "Section X ",
+      "sectioncode": "X123",
+      "buksuemail": "1901103343@buksu.edu.ph"
+    },
+    {
+      "classsection": "Section Z",
+      "sectioncode": "Z234",
+      "buksuemail": "JuanDelaCruz@buksu.edu.ph"
+    }
+  ]
+}
